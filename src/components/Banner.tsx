@@ -15,7 +15,7 @@ export const Banner = ({ variant }: BannerProps) => {
 
   useEffect(() => {
     trackEvent({
-      event: 'experiment_event',
+      event: 'ExperimentoBannerView',
       experimentId: GTM_EVENTS.EXPERIMENT_ID,
       action: GTM_EVENTS.ACTIONS.VIEW_BANNER,
       variant,
@@ -25,7 +25,7 @@ export const Banner = ({ variant }: BannerProps) => {
 
   const handleCTAClick = () => {
     trackEvent({
-      event: 'experiment_event',
+      event: 'ExperimentoBannerClick',
       experimentId: GTM_EVENTS.EXPERIMENT_ID,
       action: GTM_EVENTS.ACTIONS.CLICK_CTA,
       variant,
