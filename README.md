@@ -434,7 +434,7 @@ npm run deploy
 
 ## Conclusión
 
-El desarrollo de esta **landing page experimental** cumple con el objetivo de habilitar la validación de la hipótesis de CRO mediante un **Test A/B dinámico**. La aplicación es completamente funcional y ha sido construida siguiendo las mejores prácticas de **React**, destacando por su modularidad, tipado fuerte con **TypeScript** y una clara separación de responsabilidades.
+El desarrollo de esta **landing page experimental** cumple con el objetivo de habilitar la validación de la hipótesis de CTR mediante un **Test A/B dinámico**. La aplicación es completamente funcional y ha sido construida siguiendo las mejores prácticas de **React**, destacando por su modularidad, tipado fuerte con **TypeScript** y una clara separación de responsabilidades.
 
 Los eventos GTM registrados permiten medir efectivamente el impacto de las variantes en el CTR, proporcionando datos para tomar decisiones basadas en evidencia sobre la optimización de conversión.
 
