@@ -5,7 +5,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en una **landing page experimental** desarrollada en **React** para el Banco de Crédito del Perú (BCP). Su objetivo principal es validar una hipótesis de **optimización de la tasa de conversión (CRO)** enfocada en el formulario de solicitud de tarjetas de crédito.
+Este proyecto consiste en una **landing page experimental** desarrollada en **React** para el Banco de Crédito del Perú (BCP). Su objetivo principal es validar una hipótesis de **optimización de la tasa de clics (CTR)** enfocada en el formulario de solicitud de tarjetas de crédito.
 
 Para lograrlo, la aplicación implementa un **Test A/B dinámico** en el banner principal y realiza un seguimiento detallado de las interacciones del usuario mediante la integración con **Google Tag Manager (GTM)**.
 
